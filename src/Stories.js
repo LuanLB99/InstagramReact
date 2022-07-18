@@ -1,16 +1,16 @@
 export default function Stories() {
   const stories = [
-    { img: "img/9gag.svg", nome: "9gag" },
-    { img: "img/meowed.svg", nome: "meowed" },
-    { img: "img/barked.svg", nome: "barked" },
+    { img: "assets/img/9gag.svg", nome: "9gag" },
+    { img: "assets/img/meowed.svg", nome: "meowed" },
+    { img: "assets/img/barked.svg", nome: "barked" },
     {
-      img: "img/nathanwpylestrangeplanet.svg",
+      img: "assets/img/nathanwpylestrangeplanet.svg",
       nome: "nathanwpylestrangeplanet"
     },
-    { img: "img/wawawicomics.svg", nome: "wawawicomics" },
-    { img: "img/respondeai.svg", nome: "respondeai" },
-    { img: "img/filomoderna.svg", nome: "filomoderna" },
-    { img: "img/memeriagourmet.svg", nome: "memeriagourmet" }
+    { img: "assets/img/wawawicomics.svg", nome: "wawawicomics" },
+    { img: "assets/img/respondeai.svg", nome: "respondeai" },
+    { img: "assets/img/filomoderna.svg", nome: "filomoderna" },
+    { img: "assets/img/memeriagourmet.svg", nome: "memeriagourmet" }
   ];
 
   return (

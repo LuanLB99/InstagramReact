@@ -1,22 +1,22 @@
 export default function Sugestoes() {
     const sugestoesArray = [
       {
-        img: "img/bad.vibes.memes.svg",
+        img: "assets/img/bad.vibes.memes.svg",
         nome: "bad.vibes.memes",
         razao: "Segue você"
       },
-      { img: "img/chibirdart.svg", nome: "chibirdart", razao: "Segue você" },
+      { img: "assets/img/chibirdart.svg", nome: "chibirdart", razao: "Segue você" },
       {
-        img: "img/razoesparaacreditar.svg",
+        img: "assets/img/razoesparaacreditar.svg",
         nome: "razoesparaacreditar",
         razao: "Novo no Instagram"
       },
       {
-        img: "img/adorable_animals.svg",
+        img: "assets/img/adorable_animals.svg",
         nome: "adorable_animals",
         razao: "Segue você"
       },
-      { img: "img/smallcutecats.svg", nome: "smallcutecats", razao: "Segue você" }
+      { img: "assets/img/smallcutecats.svg", nome: "smallcutecats", razao: "Segue você" }
     ];
     return (
       <div class="sugestoes">
