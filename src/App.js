@@ -1,4 +1,4 @@
-import NavBar from "/NavBar";
+import NavBar from "./NavBar";
 import Corpo from "./Corpo";
 
 export default function App() {

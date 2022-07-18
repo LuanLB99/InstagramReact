@@ -1,11 +1,11 @@
 import Stories from "./Stories";
-import Posts from "./Posts";
+import Postagens from "./Postagens";
 
 export default function Esquerda() {
   return (
     <div class="esquerda">
       <Stories />
-      <Posts />
+      <Postagens />
     </div>
   );
 }
