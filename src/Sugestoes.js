@@ -1,4 +1,8 @@
+
+
 export default function Sugestoes() {
+
+
     const sugestoesArray = [
       {
         img: "assets/img/bad.vibes.memes.svg",

@@ -2,6 +2,7 @@ import User from "./User";
 import Sugestoes from "./Sugestoes";
 
 export default function Sidebar() {
+  
   return (
     <div class="sidebar">
       <User

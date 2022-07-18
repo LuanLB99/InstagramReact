@@ -11,6 +11,10 @@ body {
   font-size: 14px;
 }
 
+strong {
+  font-weight: bold;
+}
+
 .navbar {
   width: 100%;
   display: flex;
@@ -191,6 +195,16 @@ body {
 }
 
 .curtidaOFF {
+  color: black;
+  visibility: initial;
+}
+
+.salvoON {
+  color: black;
+  visibility: initial;
+}
+
+.salvoOFF {
   color: black;
   visibility: initial;
 }
